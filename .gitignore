@@ -1,0 +1,5 @@
+tmps/*
+conf.ini
+tests.py
+.vscode
+__pycache*
